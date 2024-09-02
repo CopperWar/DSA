@@ -1,5 +1,6 @@
 {
     "files.autoSave": "onWindowChange",
     "editor.autoClosingBrackets": "always",
-    "editor.autoClosingComments": "always"
+    "editor.autoClosingComments": "always",
+    "java.debug.settings.onBuildFailureProceed": true
 }
