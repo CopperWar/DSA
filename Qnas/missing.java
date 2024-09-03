@@ -13,7 +13,6 @@ public class missing {
         for (int num : array) {
             xor = xor ^ num;
         }
-
         System.out.println(xor);
     }
 }
